@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jakub
 
-<!--
-**Jirka5091/Jirka5091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Informatics & Cybersecurity Student** | 🧠 Maker & AI Enthusiast | 🎶 Music & Design Lover  
 
-Here are some ideas to get you started:
+I'm a bilingual Slovak student exploring the intersection of **tech, creativity, and logic**.  
+I love building projects that mix **AI, data, and design** — from ML image pipelines to minimalist web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Current Focus
+- 🧩 **Machine Learning & Computer Vision** — YOLO, TensorFlow, custom dataset workflows  
+- 🧱 **Python + Web Backend** — simple full-stack setups with Flask/FastAPI  
+- ⚡ **Embedded / Hardware Projects** — Klipper, 3D printing, automation  
+- 🔐 **Cybersecurity & Cryptography** — logic, math, and digital protection  
+- 📊 **Finance & Economics** — algorithmic thinking, markets, compounding strategies  
+
+---
+
+### 🧠 Tech Stack
+```text
+Languages:  Python • C++ • Rust • Java • HTML/CSS/JS
+Frameworks: TensorFlow • Flask • FastAPI • SFML • Tailwind • PyTorch (learning)
+Tools:       Git • VS Code • PyCharm • WSL • macOS/Linux • Docker • Klipper
